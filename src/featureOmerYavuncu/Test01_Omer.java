@@ -1,4 +1,4 @@
-package src.OmerYavuncu;
+package src.featureOmerYavuncu;
 
 public class Test01_Omer {
 
